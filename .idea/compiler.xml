@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="manong_manager_mapper" />
-        <module name="manong_rest" />
         <module name="manong_redis" />
+        <module name="manong_rest" />
         <module name="manong_portal" />
         <module name="manong_search" />
         <module name="manong_manager_pojo" />
@@ -19,8 +19,5 @@
         <module name="manong_sso" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="manong" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

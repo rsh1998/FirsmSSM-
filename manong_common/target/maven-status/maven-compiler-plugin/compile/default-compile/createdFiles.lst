@@ -1,3 +1,8 @@
 com\manong\pojo\ResponseJsonResult.class
 com\manong\pojo\EasyUITree.class
+com\manong\pojo\RestProduct.class
+com\manong\pojo\RestCategories.class
+com\manong\utils\HttpClientUtil.class
 com\manong\pojo\EasyDataGrid.class
+com\manong\pojo\RestCategories$CategoriesBean.class
+com\manong\pojo\RestCategories$CategoriesBean$SubCetegoriesBean.class

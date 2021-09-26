@@ -18,7 +18,7 @@ public class FreemarkerTest {
     @RequestMapping("/hello")
     public String sayHello(Model model){
         model.addAttribute("name","rsh");
-        return "hello";
+        return "hello.ftl";
     }
 
 }
